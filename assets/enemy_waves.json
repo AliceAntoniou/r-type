@@ -1,0 +1,373 @@
+{
+  "waves": [
+    {
+      "wave_name": "wave1",
+      "wave_id": 1,
+      "wave_duration": 10,
+      "difficulty_index": 1,
+      "enemy_qty": 10,
+      "wave_enemies": [
+        {
+          "enemy_name": "enemy1",
+          "enemy_id": 1,
+          "enemy_health": 100,
+          "enemy_damage": 2,
+          "enemy_speed": 1,
+          "enemy_spawn_time": 1,
+          "enemy_spawn_location": {
+            "x": 400,
+            "y": 150
+          },
+          "enemy_sprite": "./assets/sprites/r-typesheet3.gif",
+          "enemy_sprite_size": {
+            "width": 16,
+            "height": 16
+          },
+          "enemy_sprite_frames": 12
+        },
+        {
+          "enemy_name": "enemy1",
+          "enemy_id": 1,
+          "enemy_health": 100,
+          "enemy_damage": 2,
+          "enemy_speed": 1,
+          "enemy_spawn_time": 1,
+          "enemy_spawn_location": {
+            "x": 400,
+            "y": 200
+          },
+          "enemy_sprite": "./assets/sprites/r-typesheet3.gif",
+          "enemy_sprite_size": {
+            "width": 16,
+            "height": 16
+          },
+          "enemy_sprite_frames": 12
+        },
+        {
+          "enemy_name": "enemy1",
+          "enemy_id": 1,
+          "enemy_health": 100,
+          "enemy_damage": 2,
+          "enemy_speed": 1,
+          "enemy_spawn_time": 1,
+          "enemy_spawn_location": {
+            "x": 400,
+            "y": 250
+          },
+          "enemy_sprite": "./assets/sprites/r-typesheet3.gif",
+          "enemy_sprite_size": {
+            "width": 16,
+            "height": 16
+          },
+          "enemy_sprite_frames": 12
+        },
+        {
+          "enemy_name": "enemy1",
+          "enemy_id": 1,
+          "enemy_health": 100,
+          "enemy_damage": 2,
+          "enemy_speed": 1,
+          "enemy_spawn_time": 1,
+          "enemy_spawn_location": {
+            "x": 400,
+            "y": 300
+          },
+          "enemy_sprite": "./assets/sprites/r-typesheet3.gif",
+          "enemy_sprite_size": {
+            "width": 16,
+            "height": 16
+          },
+          "enemy_sprite_frames": 12
+        }
+        ]
+    },
+    {
+      "wave_name": "wave2",
+      "wave_id": 2,
+      "wave_duration": 20,
+      "difficulty_index": 2,
+      "enemy_qty": 20,
+      "wave_enemies": [
+        {
+          "enemy_name": "enemy1",
+          "enemy_id": 1,
+          "enemy_health": 100,
+          "enemy_damage": 2,
+          "enemy_speed": 1,
+          "enemy_spawn_time": 1,
+          "enemy_spawn_location": {
+            "x": 400,
+            "y": 150
+          },
+          "enemy_sprite": "./assets/sprites/r-typesheet3.gif",
+          "enemy_sprite_size": {
+            "width": 16,
+            "height": 16
+          },
+          "enemy_sprite_frames": 12
+        },
+        {
+          "enemy_name": "enemy1",
+          "enemy_id": 1,
+          "enemy_health": 100,
+          "enemy_damage": 2,
+          "enemy_speed": 1,
+          "enemy_spawn_time": 1,
+          "enemy_spawn_location": {
+            "x": 400,
+            "y": 200
+          },
+          "enemy_sprite": "./assets/sprites/r-typesheet3.gif",
+          "enemy_sprite_size": {
+            "width": 16,
+            "height": 16
+          },
+          "enemy_sprite_frames": 12
+        },
+        {
+          "enemy_name": "enemy1",
+          "enemy_id": 1,
+          "enemy_health": 100,
+          "enemy_damage": 2,
+          "enemy_speed": 1,
+          "enemy_spawn_time": 1,
+          "enemy_spawn_location": {
+            "x": 400,
+            "y": 250
+          },
+          "enemy_sprite": "./assets/sprites/r-typesheet3.gif",
+          "enemy_sprite_size": {
+            "width": 16,
+            "height": 16
+          },
+          "enemy_sprite_frames": 12
+        },
+        {
+          "enemy_name": "enemy1",
+          "enemy_id": 1,
+          "enemy_health": 100,
+          "enemy_damage": 2,
+          "enemy_speed": 1,
+          "enemy_spawn_time": 1,
+          "enemy_spawn_location": {
+            "x": 400,
+            "y": 300
+          },
+          "enemy_sprite": "./assets/sprites/r-typesheet3.gif",
+          "enemy_sprite_size": {
+            "width": 16,
+            "height": 16
+          },
+          "enemy_sprite_frames": 12
+        }
+      ]
+    },
+    {
+      "wave_name": "wave3",
+      "wave_id": 3,
+      "wave_duration": 30,
+      "difficulty_index": 3,
+      "enemy_qty": 30,
+      "wave_enemies": [
+        {
+          "enemy_name": "enemy1",
+          "enemy_id": 1,
+          "enemy_health": 100,
+          "enemy_damage": 2,
+          "enemy_speed": 1,
+          "enemy_spawn_time": 1,
+          "enemy_spawn_location": {
+            "x": 400,
+            "y": 150
+          },
+          "enemy_sprite": "./assets/sprites/r-typesheet3.gif",
+          "enemy_sprite_size": {
+            "width": 16,
+            "height": 16
+          },
+          "enemy_sprite_frames": 12
+        },
+        {
+          "enemy_name": "enemy1",
+          "enemy_id": 1,
+          "enemy_health": 100,
+          "enemy_damage": 2,
+          "enemy_speed": 1,
+          "enemy_spawn_time": 1,
+          "enemy_spawn_location": {
+            "x": 400,
+            "y": 200
+          },
+          "enemy_sprite": "./assets/sprites/r-typesheet3.gif",
+          "enemy_sprite_size": {
+            "width": 16,
+            "height": 16
+          },
+          "enemy_sprite_frames": 12
+        },
+        {
+          "enemy_name": "enemy1",
+          "enemy_id": 1,
+          "enemy_health": 100,
+          "enemy_damage": 2,
+          "enemy_speed": 1,
+          "enemy_spawn_time": 1,
+          "enemy_spawn_location": {
+            "x": 400,
+            "y": 250
+          },
+          "enemy_sprite": "./assets/sprites/r-typesheet3.gif",
+          "enemy_sprite_size": {
+            "width": 16,
+            "height": 16
+          },
+          "enemy_sprite_frames": 12
+        },
+        {
+          "enemy_name": "enemy1",
+          "enemy_id": 1,
+          "enemy_health": 100,
+          "enemy_damage": 2,
+          "enemy_speed": 1,
+          "enemy_spawn_time": 1,
+          "enemy_spawn_location": {
+            "x": 400,
+            "y": 300
+          },
+          "enemy_sprite": "./assets/sprites/r-typesheet3.gif",
+          "enemy_sprite_size": {
+            "width": 16,
+            "height": 16
+          },
+          "enemy_sprite_frames": 12
+        }
+      ]
+    },
+    {
+      "wave_name": "bossfight1",
+      "wave_id": 3,
+      "wave_duration": 35,
+      "difficulty_index": 3,
+      "enemy_qty": 2,
+      "wave_enemies": [
+        {
+          "enemy_name": "boss1",
+          "enemy_id": 1,
+          "enemy_health": 500,
+          "enemy_damage": 2,
+          "enemy_speed": 1,
+          "enemy_spawn_time": 1,
+          "enemy_spawn_location": {
+            "x": 400,
+            "y": 250
+          },
+          "enemy_sprite": "./assets/sprites/r-typesheet5.gif",
+          "enemy_sprite_size": {
+            "width": 33,
+            "height": 36
+          },
+          "enemy_sprite_frames": 16
+        },
+        {
+          "enemy_name": "enemy1",
+          "enemy_id": 1,
+          "enemy_health": 100,
+          "enemy_damage": 2,
+          "enemy_speed": 1,
+          "enemy_spawn_time": 1,
+          "enemy_spawn_location": {
+            "x": 450,
+            "y": 300
+          },
+          "enemy_sprite": "./assets/sprites/r-typesheet3.gif",
+          "enemy_sprite_size": {
+            "width": 16,
+            "height": 16
+          },
+          "enemy_sprite_frames": 12
+        }
+        ]
+    },
+    {
+      "wave_name": "wave3",
+      "wave_id": 3,
+      "wave_duration": 40,
+      "difficulty_index": 3,
+      "enemy_qty": 30,
+      "wave_enemies": [
+        {
+          "enemy_name": "enemy1",
+          "enemy_id": 1,
+          "enemy_health": 100,
+          "enemy_damage": 2,
+          "enemy_speed": 1,
+          "enemy_spawn_time": 1,
+          "enemy_spawn_location": {
+            "x": 400,
+            "y": 150
+          },
+          "enemy_sprite": "./assets/sprites/r-typesheet3.gif",
+          "enemy_sprite_size": {
+            "width": 16,
+            "height": 16
+          },
+          "enemy_sprite_frames": 12
+        },
+        {
+          "enemy_name": "enemy1",
+          "enemy_id": 1,
+          "enemy_health": 100,
+          "enemy_damage": 2,
+          "enemy_speed": 1,
+          "enemy_spawn_time": 1,
+          "enemy_spawn_location": {
+            "x": 430,
+            "y": 200
+          },
+          "enemy_sprite": "./assets/sprites/r-typesheet3.gif",
+          "enemy_sprite_size": {
+            "width": 16,
+            "height": 16
+          },
+          "enemy_sprite_frames": 12
+        },
+        {
+          "enemy_name": "enemy1",
+          "enemy_id": 1,
+          "enemy_health": 100,
+          "enemy_damage": 2,
+          "enemy_speed": 1,
+          "enemy_spawn_time": 1,
+          "enemy_spawn_location": {
+            "x": 460,
+            "y": 250
+          },
+          "enemy_sprite": "./assets/sprites/r-typesheet3.gif",
+          "enemy_sprite_size": {
+            "width": 16,
+            "height": 16
+          },
+          "enemy_sprite_frames": 12
+        },
+        {
+          "enemy_name": "enemy1",
+          "enemy_id": 1,
+          "enemy_health": 100,
+          "enemy_damage": 2,
+          "enemy_speed": 1,
+          "enemy_spawn_time": 1,
+          "enemy_spawn_location": {
+            "x": 490,
+            "y": 300
+          },
+          "enemy_sprite": "./assets/sprites/r-typesheet3.gif",
+          "enemy_sprite_size": {
+            "width": 16,
+            "height": 16
+          },
+          "enemy_sprite_frames": 12
+        }
+      ]
+    }
+  ]
+}

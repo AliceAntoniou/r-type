@@ -1,0 +1,89 @@
+{
+  "map": {
+    "map_name": "wave1",
+    "map_id": 1,
+    "obstacles_qty": 10,
+    "obstacles": [
+      {
+        "_comment": "DEFINE obstacles PROPERTIES AS NEEDED HERE",
+        "name": "obstacles1",
+        "id": 1,
+        "speed": 1,
+        "spawn_time": 1,
+        "scale": 2,
+        "x": 200,
+        "y": 0,
+        "sprite": "./assets/sprites/obstacles.png",
+        "sprite_size": {
+          "width": 49,
+          "height": 22
+        },
+        "obstacles_sprite_frames": 9
+      },
+      {
+        "_comment": "DEFINE obstacles PROPERTIES AS NEEDED HERE",
+        "name": "obstacles1",
+        "id": 1,
+        "speed": 1,
+        "spawn_time": 1,
+        "scale": 2,
+        "x": 400,
+        "y": 0,
+        "sprite": "./assets/sprites/obstacles.png",
+        "sprite_size": {
+          "width": 49,
+          "height": 22
+        },
+        "obstacles_sprite_frames": 9
+      },
+      {
+        "_comment": "DEFINE obstacles PROPERTIES AS NEEDED HERE",
+        "name": "obstacles1",
+        "id": 1,
+        "speed": 1,
+        "spawn_time": 1,
+        "scale": 2,
+        "x": 600,
+        "y": 0,
+        "sprite": "./assets/sprites/obstacles.png",
+        "sprite_size": {
+          "width": 49,
+          "height": 22
+        },
+        "obstacles_sprite_frames": 9
+      },
+      {
+        "_comment": "DEFINE obstacles PROPERTIES AS NEEDED HERE",
+        "name": "obstacles1",
+        "id": 1,
+        "speed": 1,
+        "spawn_time": 1,
+        "scale": 3,
+        "x": 800,
+        "y": 0,
+        "sprite": "./assets/sprites/obstacles.png",
+        "sprite_size": {
+          "width": 49,
+          "height": 22
+        },
+        "obstacles_sprite_frames": 9
+      },
+      {
+        "_comment": "DEFINE obstacles PROPERTIES AS NEEDED HERE",
+        "name": "obstacles1",
+        "id": 1,
+        "speed": 1,
+        "spawn_time": 1,
+        "scale": 4,
+        "x": 1000,
+        "y": 0,
+        "sprite": "./assets/sprites/obstacles.png",
+        "sprite_size": {
+          "width": 49,
+          "height": 22
+        },
+        "obstacles_sprite_frames": 9
+      }
+    ]
+  }
+}
