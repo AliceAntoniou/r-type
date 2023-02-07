@@ -1,20 +1,9 @@
-\page page_README README
-
-[TOC]
-
-# Projet {#projet}
+# Projet r-type
 
 Implementation of a multithreaded server and a graphical client for a game called R-Type.\n
 The Game is a horizontal shoot 'em up.
 
-## Installation {#installation}
-
-
-## Usage {#usage}
-
-\snippet ./test.cpp Test
-
-## Informations {#informations}
+## Informations
 
 \author Juliette Dupin <<juliette.dupin@epitech.eu>>\n
         Ashley Damiens <<ashley.damiens@epitech.eu>>\n
