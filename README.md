@@ -3,6 +3,8 @@
 Implementation of a multithreaded server and a graphical client for a game called R-Type.\n
 The Game is a horizontal shoot 'em up.
 
+You can read the Epitech subject for more information.
+
 ## Informations
 
 \author Juliette Dupin <<juliette.dupin@epitech.eu>>\n
